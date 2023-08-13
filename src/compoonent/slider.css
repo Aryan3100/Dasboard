@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sl{
+    /* -webkit-appearance: none; */
+    width: 100%;
+    height: 2px;
+    border:none;
+    outline: none;
+    accent-color: blue;
+    background-color: #ffffff;
+    border-radius: 5px;
+    outline: none;
+    opacity: 1;
+    -webkit-transition: 0.2s;
+    transition: opacity 0.2s;
+
+     
+}
